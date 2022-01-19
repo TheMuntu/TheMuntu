@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pacome Kemkeu
+- 👋 Hi, My name is Pacome Kemkeu
 - 👀 I’m interested in Security, Networking and DevOps...
 - 🌱 I’m currently enrolled in a Master in Security and Network Engineering at Innopolis University
 - 💞️ I’m looking to collaborate on project related to Security operations and DevOps.
