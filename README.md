@@ -10,9 +10,6 @@
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TheMuntu&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMuntu&hide=TeX&layout=compact)
-
 
 ## ⚡ Technologies
 
@@ -39,6 +36,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TheMuntu&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMuntu&hide=TeX&layout=compact)
+
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheMuntu)
 <!---
