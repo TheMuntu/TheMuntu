@@ -38,7 +38,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheMuntu)
 <!---
 TheMuntu/TheMuntu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
