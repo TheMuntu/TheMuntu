@@ -45,7 +45,7 @@
 
 #### [Using Wazuh to detect Raspberry Robin worms](https://wazuh.com/blog/using-wazuh-to-detect-raspberry-robin-worms/)
 #### [Detecting Apache Text4Shell (CVE-2022-42889) with Wazuh](https://wazuh.com/blog/detecting-apache-text4shell-cve-2022-42889-with-wazuh/)
-#### [Adversary Emulation on AWS with Startus Red Team and Wazuh]()
+#### [Adversary Emulation on AWS with Stratus Red Team and Wazuh]()
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheMuntu)
 <!---
