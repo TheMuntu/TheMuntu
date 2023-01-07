@@ -1,4 +1,4 @@
-## Fancy seeing you here!✌🏽
+## Hey human!✌🏽
 
 🧔 Philosopher : `Hell is others.` <br/>
 🤷 Others : `Hell is trying to understand someone’s code.` <br/>
@@ -39,7 +39,11 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TheMuntu&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMuntu&hide=TeX&layout=compact)
 
+## Follow my Security Blog posts
 
+#### [Using Wazuh to detect Raspberry Robin worms](https://wazuh.com/blog/using-wazuh-to-detect-raspberry-robin-worms/)
+#### [Detecting Apache Text4Shell (CVE-2022-42889) with Wazuh](https://wazuh.com/blog/detecting-apache-text4shell-cve-2022-42889-with-wazuh/)
+#### [Adversary Emulation on AWS with Startus Red Team and Wazuh]()
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheMuntu)
 <!---
