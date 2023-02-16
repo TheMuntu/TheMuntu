@@ -38,14 +38,15 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TheMuntu&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMuntu&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TheMuntu&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMuntu&hide=TeX&layout=compact&theme=codeSTACKr)
 
 ## Follow my Security Blog posts
 
 #### [Using Wazuh to detect Raspberry Robin worms](https://wazuh.com/blog/using-wazuh-to-detect-raspberry-robin-worms/)
 #### [Detecting Apache Text4Shell (CVE-2022-42889) with Wazuh](https://wazuh.com/blog/detecting-apache-text4shell-cve-2022-42889-with-wazuh/)
 #### [Adversary Emulation on AWS with Stratus Red Team and Wazuh](https://wazuh.com/blog/adversary-emulation-on-aws-with-stratus-red-team-and-wazuh/)
+#### [Havoc C2 framework detection with Wazuh XDR]()
 #### [HTB Timelapse challenge](https://hackmd.io/@PacM4n/S1EH9lUr9)
 #### [HTB Paper challenge](https://hackmd.io/@PacM4n/SJUcC9SDc)
 
