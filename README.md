@@ -39,9 +39,9 @@
 
 ## Follow my Security Blog posts
 
-#### [Using Wazuh to detect Raspberry Robin worms](https://wazuh.com/blog/using-wazuh-to-detect-raspberry-robin-worms/)
-#### [Detecting Apache Text4Shell (CVE-2022-42889) with Wazuh](https://wazuh.com/blog/detecting-apache-text4shell-cve-2022-42889-with-wazuh/)
 #### [Adversary Emulation on AWS with Stratus Red Team and Wazuh](https://wazuh.com/blog/adversary-emulation-on-aws-with-stratus-red-team-and-wazuh/)
+#### [Detecting Apache Text4Shell (CVE-2022-42889) with Wazuh](https://wazuh.com/blog/detecting-apache-text4shell-cve-2022-42889-with-wazuh/)
+#### [Using Wazuh to detect Raspberry Robin worms](https://wazuh.com/blog/using-wazuh-to-detect-raspberry-robin-worms/)
 #### [Havoc C2 framework detection with Wazuh XDR]()
 #### [HTB Timelapse challenge](https://hackmd.io/@PacM4n/S1EH9lUr9)
 #### [HTB Paper challenge](https://hackmd.io/@PacM4n/SJUcC9SDc)
