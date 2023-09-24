@@ -1,4 +1,4 @@
-## ☹️😑"Hell is not understanding my own code."
+## 😑"Hell is not understanding my own code."
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pacome-kemkeu/)](https://www.linkedin.com/in/pacome-kemkeu/)
