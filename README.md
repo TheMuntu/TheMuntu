@@ -40,6 +40,7 @@
 
 ## Follow my Security Blog posts
 
+#### [Extending Wazuh detection with OpenSearch integration](https://wazuh.com/blog/detection-with-opensearch-integration/)
 #### [Integrating Wazuh and Splunk for extended security monitoring](https://wazuh.com/blog/splunk-for-extended-security-monitoring/)
 #### [Adversary Emulation on AWS with Stratus Red Team and Wazuh](https://wazuh.com/blog/adversary-emulation-on-aws-with-stratus-red-team-and-wazuh/)
 #### [Detecting Apache Text4Shell (CVE-2022-42889) with Wazuh](https://wazuh.com/blog/detecting-apache-text4shell-cve-2022-42889-with-wazuh/)
