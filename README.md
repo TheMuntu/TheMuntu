@@ -38,7 +38,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TheMuntu&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMuntu&hide=TeX&layout=compact&theme=codeSTACKr)
 
-## Follow my Security Blog posts
+## Follow my Blog posts
 
 #### [Extending Wazuh detection with OpenSearch integration](https://wazuh.com/blog/detection-with-opensearch-integration/)
 #### [Integrating Wazuh and Splunk for extended security monitoring](https://wazuh.com/blog/splunk-for-extended-security-monitoring/)
