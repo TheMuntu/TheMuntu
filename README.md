@@ -1,4 +1,4 @@
-## " Nothing in software ever works. It is just glud together to stay stable until - Friday -":
+## " Nothing in software ever works. It is just glued together to stay stable until - Friday -":
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pacome-kemkeu/)](https://www.linkedin.com/in/pacome-kemkeu/)
