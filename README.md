@@ -1,7 +1,7 @@
 ### "Nothing in software ever works. It is just glued together to stay stable until Friday" xD
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pacome-kemkeu/)](https://www.linkedin.com/in/pacome-kemkeu/)
+<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pacome-kemkeu/)](https://www.linkedin.com/in/pacome-kemkeu/) -->
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white&link=https://www.linkedin.com/in/pacome-kemkeu/)](https://www.wazuh.slack.com)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white&link=https://www.reddit.com/user/TheMunthu)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)
