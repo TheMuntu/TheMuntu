@@ -1,4 +1,4 @@
-### "Nothing in software ever works. It is just glued together to stay stable until Friday" xD
+### "Nothing in software ever works. It is just glued together to stay stable until Friday"
 
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://www.wazuh.slack.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/TheMunthu)
@@ -38,7 +38,10 @@
 
 ## 📊 GitHub Stats
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMuntu&theme=holi) ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheMuntu&theme=holi) 
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMuntu&theme=tokyonight) 
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheMuntu&theme=tokyonight) ![Streak Stats](https://streak-stats.vercel.app/?user=TheMuntu&theme=tokyonight&&card_width=550&card_height=250)
 
 
 ## 📝 Follow my blog posts
