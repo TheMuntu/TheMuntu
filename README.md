@@ -3,7 +3,6 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://www.wazuh.slack.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/TheMunthu)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)
-
 ---
 
 ## ⚡ Technologies
@@ -23,6 +22,7 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+
 ![Wazuh](https://img.shields.io/badge/Wazuh-0A84FF?style=flat-square&logo=wazuh&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
@@ -38,11 +38,8 @@
 
 ## 📊 GitHub Stats
 
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMuntu&theme=tokyonight) 
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheMuntu&theme=tokyonight) ![Streak Stats](https://streak-stats.vercel.app/?user=TheMuntu&theme=tokyonight&&card_width=550&card_height=250)
-
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMuntu&theme=tokyonight)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheMuntu&theme=tokyonight) &nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheMuntu&theme=tokyonight&utcOffset=8) 
 
 ## 📝 Follow my blog posts
 
@@ -58,5 +55,10 @@
 ## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheMuntu&theme=tokyo-night)
+
+
+
+
+<!--![Streak Stats](https://streak-stats.vercel.app/?user=TheMuntu&theme=tokyonight&&card_width=550&card_height=250) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheMuntu)
