@@ -1,11 +1,10 @@
 ### "Nothing in software ever works. It is just glued together to stay stable until Friday" xD
 
-
-<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pacome-kemkeu/)](https://www.linkedin.com/in/pacome-kemkeu/) -->
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white&link=https://www.linkedin.com/in/pacome-kemkeu/)](https://www.wazuh.slack.com)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white&link=https://www.reddit.com/user/TheMunthu)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://www.wazuh.slack.com)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/TheMunthu)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)
 
+---
 
 ## ⚡ Technologies
 
@@ -15,10 +14,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
-![Wazuh Badge](https://img.shields.io/badge/-Wazuh-blue?style=flat-square&logo=Wazuh&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat-square&logo=vagrant&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
@@ -28,19 +23,25 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-0A84FF?style=flat-square&logo=wazuh&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F2A?style=flat-square&logo=crowdstrike&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![OSQuery](https://img.shields.io/badge/OSQuery-005CFF?style=flat-square&logo=osquery&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+## 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TheMuntu&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMuntu&hide=TeX&layout=compact&theme=codeSTACKr)
+ ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheMuntu&theme=tokyonight) ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheMuntu&theme=holi) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMuntu&theme=holi) 
 
-![GitHub Stats 2](https://ghstats.dev/api/card?username=TheMuntu)
-
-
-## Follow my blog posts
+## 📝 Follow my blog posts
 
 #### [Extending Wazuh detection with OpenSearch integration](https://wazuh.com/blog/detection-with-opensearch-integration/)
 #### [Integrating Wazuh and Splunk for extended security monitoring](https://wazuh.com/blog/splunk-for-extended-security-monitoring/)
@@ -51,8 +52,8 @@
 #### [HTB Timelapse challenge](https://hackmd.io/@PacM4n/S1EH9lUr9)
 #### [HTB Paper challenge](https://hackmd.io/@PacM4n/SJUcC9SDc)
 
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheMuntu&theme=tokyo-night)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheMuntu)
-<!---
-TheMuntu/TheMuntu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
