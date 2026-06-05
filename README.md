@@ -38,8 +38,8 @@
 
 ## 📊 GitHub Stats
 
- ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheMuntu&theme=tokyonight) ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheMuntu&theme=holi) 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMuntu&theme=holi) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheMuntu&theme=holi) ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheMuntu&theme=holi) 
+
 
 ## 📝 Follow my blog posts
 
