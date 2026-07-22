@@ -84,10 +84,14 @@ Infrastructure Monitoring • Security Automation • DevOps
 - [Using Wazuh to Detect Raspberry Robin Worms](https://wazuh.com/blog/using-wazuh-to-detect-raspberry-robin-worms/)
 - [Havoc C2 framework detection with Wazuh XDR]()
 
-### 🔹 Labs & CTF Writeups
 
-- [HTB — Timelapse](https://hackmd.io/@PacM4n/S1EH9lUr9)
-- [HTB — Paper](https://hackmd.io/@PacM4n/SJUcC9SDc)
+### 🔹 Labs, CTF Writeups & Projects
+
+- [HTB — Timelapse writeup](https://hackmd.io/@PacM4n/S1EH9lUr9)
+- [HTB — Paper writeup](https://hackmd.io/@PacM4n/SJUcC9SDc)
+- [A Quiet Saturday Watching Bots Knock on the Door](https://hackmd.io/@PacM4n/H1EYwLu4Me)
+- [Deploying a Google Kubernetes Engine cluster in GCP using Terraform](https://hackmd.io/@PacM4n/Hy1OwsYpK)
+- [More](https://hackmd.io/@PacM4n)
 
 ---
 
