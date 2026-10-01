@@ -15,7 +15,7 @@ Infrastructure Monitoring • Security Automation • DevOps
 ---
 
 
-# ⚡ Tech Stack
+# Tech Stack
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -58,18 +58,12 @@ Infrastructure Monitoring • Security Automation • DevOps
 # Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TheMuntu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMuntu&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-
-</div>
-
-<div align="center">
-
-<img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=TheMuntu&theme=tokyo-night&hide_border=true" />
+  
+<img src="https://github-stats-extended.vercel.app/api/?username=TheMuntu&show_icons=true&layout=donut&theme=tokyonight&rank_icon=default&include_all_commits=true&custom_title=Pacome's+Stats&disable_animations=false&number_format=long&count_private=true&show=prs_merged_percentage" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=themuntu&layout=donut&count_private=true&theme=tokyonight" alt="Most Used Languages" />
 
 </div>
+
 
 ---
 
